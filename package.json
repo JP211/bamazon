@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node application that uses a mySQL database of products to \"purchase\"",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP211/bamazon.git"
+  },
+  "author": "JP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JP211/bamazon/issues"
+  },
+  "homepage": "https://github.com/JP211/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
