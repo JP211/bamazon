@@ -2,7 +2,7 @@
 
 ##Overview
 
-Bamazon is an Amazon style storefront with a MySQL database. This application takes orders from customers and depletes stock from the store's inventory. 
+Bamazon is an Amazon style storefront in Node with a MySQL database. This application takes orders from customers and depletes stock from the store's inventory. 
 
 #### Here are a few examples of Bamazon in action! 
 
